@@ -283,3 +283,7 @@ Are you running into errors that the first page of Google results doesn't solve?
 * [MongooseJS](http://mongoosejs.com/)
 * [MongoDB](http://www.mongodb.org/)
 * [Jade](http://jade-lang.com/)
+
+##Additional citations
+
+* http://stackoverflow.com/questions/10081452/drop-database-with-mongoose
